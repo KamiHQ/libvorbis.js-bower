@@ -1,0 +1,19 @@
+{
+  "name": "libvorbis.js",
+  "version": "0.5.1",
+  "description": "This library lets you encode PCM audio data into Ogg Vorbis on your browser!",
+  "main": "js/libvorbis.asmjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KamiHQ/libvorbis.js-bower.git"
+  },
+  "author": "Gabriel Garcia <garciat@live.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KamiHQ/libvorbis.js-bower/issues"
+  },
+  "homepage": "https://github.com/KamiHQ/libvorbis.js-bower#readme"
+}
